@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.0 Server at localhost" name="Tomcat v8.0 Server at localhost" runtime-id="Apache Tomcat v8.0" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="90" stop-timeout="15" testEnvironment="true" timestamp="15">
+    <list key="modules" value0="MVC_CURD::org.eclipse.jst.jee.server:MVC_CURD::jst.web::3.0" value1="MVC_Form::org.eclipse.jst.jee.server:MVC_Form::jst.web::3.0" value2="MVC_HelloWorld::org.eclipse.jst.jee.server:MVC_HelloWorld::jst.web::3.0" value3="MVC_MultipleController::org.eclipse.jst.jee.server:MVC_MultipleController::jst.web::3.0" value4="MVC_Request_Response::org.eclipse.jst.jee.server:MVC_Request_Response::jst.web::3.0"/>
+  </server>
+</servers>
